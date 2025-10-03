@@ -12,4 +12,5 @@ int main(){
     std::cout << "Пароль неверный!\n";
   }
   return 0;
+  
 }
